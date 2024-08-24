@@ -1,0 +1,17 @@
+{"characters": [{
+    "str": 15,
+    "wis": 10,
+    "spelllist": [{
+        "spellname": "a",
+        "uses": 4,
+        "maxuses": 5
+    }],
+    "lvl": 1,
+    "con": 13,
+    "race": "c",
+    "dex": 14,
+    "name": "c",
+    "job": "c",
+    "cha": 8,
+    "int": 12
+}]}

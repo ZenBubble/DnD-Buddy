@@ -1,0 +1,39 @@
+{"characters": [
+    {
+        "str": 0,
+        "wis": 0,
+        "spelllist": [
+            {
+                "spellname": "wish",
+                "uses": 1,
+                "maxuses": 2
+            },
+            {
+                "spellname": "fireball",
+                "uses": 1,
+                "maxuses": 1
+            }
+        ],
+        "lvl": 1,
+        "con": 0,
+        "race": "Kenku",
+        "dex": 0,
+        "name": "Snatch",
+        "job": "Rogue",
+        "cha": 0,
+        "int": 0
+    },
+    {
+        "str": 0,
+        "wis": 0,
+        "spelllist": [],
+        "lvl": 1,
+        "con": 0,
+        "race": "Snake",
+        "dex": 0,
+        "name": "Cassian",
+        "job": "Wizard",
+        "cha": 0,
+        "int": 0
+    }
+]}
