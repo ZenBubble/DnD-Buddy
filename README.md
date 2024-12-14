@@ -1,5 +1,5 @@
 # DnD Buddy
-This is a program written in Java.
+This is a program written in Javausing Swing as the frontend framework.
 
 ## What is it?
 DnD Buddy is a companion app for DnD, intended to replace the paper sheets regularly used while still remaining true to the DnD style.
